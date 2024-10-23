@@ -1,0 +1,22 @@
+{
+  "name": "proyectoclase",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app"
+  },
+  "keywords": [
+    "e-commerce"
+  ],
+  "author": "Andrey Sebastian Parra Fernandez",
+  "license": "ISC",
+  "description": "Proyecto de practica de backend con node",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
